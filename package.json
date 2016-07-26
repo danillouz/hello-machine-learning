@@ -1,0 +1,20 @@
+{
+  "name": "hello-machine-learning",
+  "version": "0.0.1",
+  "description": "Hello! I started to learn about Machine Learning!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danillouz/hello-machine-learning.git"
+  },
+  "keywords": [
+    "machine-learning",
+    "coursera",
+    "notes"
+  ],
+  "author": "Daniel Illouz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danillouz/hello-machine-learning/issues"
+  },
+  "homepage": "https://github.com/danillouz/hello-machine-learning#readme"
+}
