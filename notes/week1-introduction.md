@@ -26,29 +26,36 @@ between the input and the output.
 Supervised learning problems are categorized into:
 
 ### Regression problems
-> Regression: statistical process for estimating the
-relationships among variables.
-
 Trying to _predict_ results within a _continuous output_.
 Meaning that we are trying to map input variables to some
 continuous function.
+
+> Regression: statistical process for estimating the
+relationships among variables.
 
 > **Continuous** data is **measured** and can take any value
 within a range. For example a person's height.
 
 ### Classification problems
+Trying to _predict_ results in a _discrete output_. Meaning
+that we are trying to map input variables into discrete
+categories.
+
 > Classification: identifying to which of a set of categories
 a new observation belongs, on the basis of a training set of
 data containing observations whose category membership is
 known.
-
-Trying to _predict_ results in a _discrete output_. Meaning
-that we are trying to map input variables into discrete
-categories.
 
 > **Discrete** data is **counted** and can only take certain
 values. For example the number of students in a class (you
 can't have _half_ a student).
 
 ## Unsupervised Learning
-TODO
+Allows to approach problems with little or no idea what the
+results should look like. Structure can be derived by
+_clustering_ the data based on relationships among the
+variables in the data.
+
+With unsupervised learning there is no feedback based on the
+prediction results, i.e., there is no _teacher_ to correct
+you.
