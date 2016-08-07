@@ -1,10 +1,3 @@
-_Machine Learning_ (ML) is a field that grew out of the
-field of _Artificial Intelligence_ (AI). AI allowed to
-achieve simple things like finding the shortest point
-between two points. But for more complex tasks, like web
-search, photo tagging and spam filters, machines require to
-learn.
-
 # What is Machine Learning?
 > Arthur Samuel: "the field of study that gives computers
 the ability to learn without being explicitly programmed."
