@@ -1,7 +1,7 @@
 {
   "name": "hello-machine-learning",
   "version": "0.0.1",
-  "description": "Hello! I started to learn about Machine Learning!",
+  "description": "Hello! I started to learn ML!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/danillouz/hello-machine-learning.git"
